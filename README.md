@@ -11,7 +11,9 @@ and the concatenation of all the rows is taken as the vector representation of t
 the network will provide us prediction score for each class. Finally, our estimated label, y-pred,
 will be the class with the highest score.
 ![2023-03-12_05-45-45](https://user-images.githubusercontent.com/89254644/224521348-46e761a1-bd67-44b6-b763-d89ea5671238.png)
+
 The deep network shema:
+
 ![2023-03-12_05-47-37](https://user-images.githubusercontent.com/89254644/224521398-3f60c0d1-a36f-4aca-9606-b25913747f4c.png)
 
 – mnist.pkl: A file containing 1000 digit images and their labels.\

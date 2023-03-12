@@ -23,8 +23,8 @@ The deep network shema:
 
 To get the result, run main.py. The order of the output will be in the following:
 1. Visualising the image using ASCII chars.
-2. The correct label for the image above.
-3-4. An array displaying a total of 10 float numbers. The index of the highest number is the correct label for the image.
+2. The correct label for the image above.\
+3-4. An array displaying a total of 10 float numbers. The index of the highest number is the correct label for the image.\
 5-6. The accuracy percent of networks by using calculate_accuracy function in utility for network1 and network2.
 
 Example 1:
